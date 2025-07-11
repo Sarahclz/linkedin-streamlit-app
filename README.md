@@ -1,4 +1,4 @@
-Parfait, tu as maintenant tous les éléments pour structurer un fichier `README.md` clair, homogène, et prêt à présenter. Voici une version **sans tableau**, **sans emojis**, **commentée et structurée**, que tu peux **facilement adapter ou compléter** :
+
 
 ---
 
@@ -130,7 +130,4 @@ L’application permet une analyse complète et interactive des offres d’emplo
 
 ---
 
-```
-
-Souhaites-tu que je t’en fasse une **version téléchargeable (`README.md`)** directement, prête à mettre dans ton dossier VS Code ?
 ```
